@@ -14,8 +14,7 @@
 - ⭐️ Fun fact about me **Worked as a freelance digital designer since 2013 (Motion Designer and Graphic Designer)**
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+[![Design Softwares](https://skillicons.dev/icons?i=ae,ai,ps,pr,blender)](https://skillicons.dev)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneeshraj&show_icons=true&locale=en&theme=dark" alt="haneeshraj" /></p>

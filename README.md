@@ -55,11 +55,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
   
-  [![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/haneeshraj)
+[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/haneeshraj)
+
 [![Codepen](https://skillicons.dev/icons?i=twitter)](https://twitter.com/haneeshrajb)
+
 [![Codepen](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/haneeshraj)
+
 [![Codepen](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16559308)
+
 [![Codepen](https://skillicons.dev/icons?i=instagram)](https://instagram.com/haneeshrajb)
+
 [![Codepen](https://skillicons.dev/icons?i=codepen)](https://github.com/haneeshraj)
 
   

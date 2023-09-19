@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**haneeshraj/haneeshraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Haneesh Raj!</h1>
 <h3 align="center">A passionate fill stack web developer and digital artist from India</h3>

@@ -31,4 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haneeshraj&theme=dark" alt="haneeshraj" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=haneeshraj&label=&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=haneeshraj&label=&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+[![Haneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haneeshraj&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)

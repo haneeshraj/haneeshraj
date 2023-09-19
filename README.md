@@ -14,7 +14,27 @@
 - ⭐️ Fun fact about me **Worked as a freelance digital designer since 2013 (Motion Designer and Graphic Designer)**
 
 
+<h2>Design Softwares</h2>
+
 [![Design Softwares](https://skillicons.dev/icons?i=ae,ai,ps,pr,blender)](https://skillicons.dev)
+
+<h2>Frontend tech</h2>
+
+[![Frontend Tech](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,bootstrap,vue,figma)](https://skillicons.dev)
+
+<h2>Backend tech</h2>
+
+[![Web Tech](https://skillicons.dev/icons?i=nodejs,express,firebase,graphql)](https://skillicons.dev)
+
+<h2>Databases</h2>
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase)](https://skillicons.dev)
+
+<h2>Programming Languages</h2>
+
+[![Databases](https://skillicons.dev/icons?i=c,cpp,py,java,js,r,ts)](https://skillicons.dev)
+
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneeshraj&show_icons=true&locale=en&theme=dark" alt="haneeshraj" /></p>

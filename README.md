@@ -14,7 +14,7 @@
 - ⭐️ Fun fact about me **Worked as a freelance digital designer since 2013 (Motion Designer and Graphic Designer)**
 
 
-[![Design software](https://skillicons.dev/icons?i=ae, ai, ps, pr, blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 

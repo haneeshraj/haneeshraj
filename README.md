@@ -53,25 +53,5 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">  
-  
-[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/haneeshraj)
 
-[![Codepen](https://skillicons.dev/icons?i=twitter)](https://twitter.com/haneeshrajb)
-
-[![Codepen](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/haneeshraj)
-
-[![Codepen](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16559308)
-
-[![Codepen](https://skillicons.dev/icons?i=instagram)](https://instagram.com/haneeshrajb)
-
-[![Codepen](https://skillicons.dev/icons?i=codepen)](https://github.com/haneeshraj)
-
-  
-<a href="https://twitter.com/haneeshrajb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haneeshrajb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haneeshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haneeshraj" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16559308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16559308" height="30" width="40" /></a>
-<a href="https://codesandbox.com/haneeshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="haneeshraj" height="30" width="40" /></a>
-<a href="https://instagram.com/haneeshrajb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haneeshrajb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@haneeshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@haneeshraj" height="30" width="40" /></a>
-</p>
+[![Twitter](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://twitter.com/haneeshrajb)

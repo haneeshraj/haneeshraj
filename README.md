@@ -16,11 +16,11 @@
 
 <h2>Design Softwares</h2>
 
-[![Design Softwares](https://skillicons.dev/icons?i=ae,ai,ps,pr,blender)](https://skillicons.dev)
+[![Design Softwares](https://skillicons.dev/icons?i=ae,ai,ps,pr,blender,ableton)](https://skillicons.dev)
 
 <h2>Frontend tech</h2>
 
-[![Frontend Tech](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,bootstrap,vue,figma)](https://skillicons.dev)
+[![Frontend Tech](https://skillicons.dev/icons?i=html,css,js,jquery,react,nextjs,redux,bootstrap,vue,figma)](https://skillicons.dev)
 
 <h2>Backend tech</h2>
 
@@ -34,6 +34,9 @@
 
 [![Databases](https://skillicons.dev/icons?i=c,cpp,py,java,js,r,ts)](https://skillicons.dev)
 
+<h2>Tools and Others</h2>
+
+[![Tools](https://skillicons.dev/icons?i=codepen,discord,gcp,git,github,postman,bash,raspberrypi,vscode)](https://skillicons.dev)
 
 
 

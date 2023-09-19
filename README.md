@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneeshraj&show_icons=true&locale=en&theme=dark" alt="haneeshraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haneeshraj&theme=dark" alt="haneeshraj" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=haneeshraj&label=&pretty=true)](https://visitcount.itsvg.in)

@@ -46,7 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haneeshraj&show_icons=true&locale=en&layout=compact&theme=dark" alt="haneeshraj" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=haneeshraj&label=&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 [![Haneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haneeshraj&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -62,4 +62,5 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haneeshraj.banisetti@gmail.com)
 
+[![](https://visitcount.itsvg.in/api?id=haneeshraj&label=&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 

@@ -28,7 +28,7 @@
 
 <h2>Databases</h2>
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase)](https://github.com/haneeshraj)
+[![Databases](https://skillicons.dev/icons?i=mongodb,firebase)](https://github.com/haneeshraj)
 
 <h2>Programming Languages</h2>
 

@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Haneesh Raj!</h1>
 <h3 align="center">A self-taught full stack web developer and digital artist from India</h3>
 
-- 🔭 I’m currently working on [E-Commerce Website using Redux ToolKit](https://github.com/haneeshraj/mern-ecommerce-v2)
+- 🔭 I’m currently working on [Candy Soundlab](https://github.com/haneeshraj/candy-soundlab)
 
-- 🌱 I’m currently learning **Redux Tookkit**
+- 🌱 I’m currently learning **Electron**
 
 - 💬 Ask me about **React, Redux, Express, NoSQL DB, NextJS**
 
